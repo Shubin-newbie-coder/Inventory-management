@@ -1,4 +1,4 @@
-# Inventory Management System
+# ລະບົບຈັດການຄັງສິນຄ້າ / Inventory Management System
 
 ## Tech Stack
 - Python
