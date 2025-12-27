@@ -14,9 +14,7 @@
 ## Setup
 1. Create database `inventory_db`
 2. Run `schema.sql`
-3. python -m venv venv
-   venv\Scripts\activate 
-   pip install -r requirements.txt
+3. pip install -r requirements.txt
 4. Run `python main.py`
 
 Picture test!!
