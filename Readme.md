@@ -18,4 +18,5 @@
 4. Run `python main.py`
 
 Picture test!!
-<img width="1056" height="731" alt="image" src="https://github.com/user-attachments/assets/1c9fb9ef-87b2-4ec2-aa67-d2e06a45c9b5" />
+<img width="1416" height="959" alt="image" src="https://github.com/user-attachments/assets/9567bcc2-03b8-448e-9ef1-693316cb2d76" />
+
