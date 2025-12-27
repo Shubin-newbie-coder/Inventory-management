@@ -1,0 +1,15 @@
+inventory_system/
+│
+├── main.py
+├── database.py
+├── config.py
+│
+├── models/
+│   └── product.py
+│
+├── services/
+│   └── inventory_service.py
+│
+├── schema.sql
+├── requirements.txt
+└── README.md
